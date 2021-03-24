@@ -1,7 +1,7 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(name='django-email-obfuscator',
-    version='0.1.5',
+    version='0.1.5-dev1',
     description='A Django template filter to protect email addresses from \
     crawlers.',
     author='Joseph Mornin',
